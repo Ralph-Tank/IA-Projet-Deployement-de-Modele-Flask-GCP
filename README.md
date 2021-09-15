@@ -18,6 +18,6 @@ Enfion on crée un fichier Python YAML pourque le serveur comprenne quelle est l
 
 Bonus : Utilisation de HTML, CSS and Javascript pour "pimper" le modèle front-end. Simplicité et facile d'utilisation, même compatible avec les téléphones mobiles !
 
-Lien vers l'application web :  flaskdeploy-16092021.appspot.com 
+Lien vers l'application web :  https://flaskdeploy-16092021.appspot.com 
 
 Lien vers mon profil LinkedIn : https://www.linkedin.com/in/ralph-tankoua-06066715b/
