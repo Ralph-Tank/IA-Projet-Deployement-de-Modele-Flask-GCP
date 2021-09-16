@@ -45,7 +45,7 @@ $(document).ready(function () {
                 // Get and display the result
                 $('.loader').hide();
                 $('#result').fadeIn(600);
-                $('#result').text(' Diagnosis of lungs status:  ' + data);
+                $('#result').text(' DIAGNOSTIC :  ' + data);
                 console.log('Success!');
             },
         });
